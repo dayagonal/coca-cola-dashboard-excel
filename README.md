@@ -8,3 +8,6 @@ The project demonstrates skills in:
 - Data visualization
 - Business analysis
 - Dashboard design in Excel
+##  Disclaimer!
+
+This dashboard is based on synthetic data created for analytical and visualization purposes only.
